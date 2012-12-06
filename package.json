@@ -1,0 +1,22 @@
+{
+  "name": "plan-transcode",
+  "version": "0.0.1",
+  "description": "plan plugin to transcode audio using sox as a backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/superjoe30/node-plan-thumbnail.git"
+  },
+  "author": "Andrew Kelley",
+  "license": "BSD",
+  "dependencies": {
+    "sox": "0.0.1"
+  },
+  "devDependencies": {
+    "plan": "0.0.1",
+    "mocha": "~1.7.3"
+  }
+}
