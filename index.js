@@ -5,7 +5,7 @@ module.exports = {
   start: function(done) {
     var self = this;
     var tempAudioFile = self.context.makeTemp({
-      suffix: '.' + self.settings.format.toLowerCase()
+      suffix: '.' + self.options.format.toLowerCase()
     });
 
     // consume temp path
