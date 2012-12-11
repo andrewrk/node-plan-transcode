@@ -1,6 +1,6 @@
 {
   "name": "plan-transcode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "plan plugin to transcode audio using sox as a backend",
   "main": "index.js",
   "scripts": {
